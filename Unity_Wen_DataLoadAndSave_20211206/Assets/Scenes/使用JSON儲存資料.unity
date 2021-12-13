@@ -461,7 +461,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 475078047}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2eef83c2f63e6c84d991305737ec9c89, type: 3}
+  m_Script: {fileID: 11500000, guid: 250b32c79c9901246be860138e695011, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   goldManger: {fileID: 2056942551}
@@ -983,7 +983,7 @@ PrefabInstance:
     - target: {fileID: 6875487169055990941, guid: 4e049bff2a127ba48839c89dd7a8b4f3,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: Wen.DataDB, Assembly-CSharp
+      value: Wen.DataDBWithJSON, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 6875487169055990941, guid: 4e049bff2a127ba48839c89dd7a8b4f3,
         type: 3}
@@ -1163,7 +1163,7 @@ PrefabInstance:
     - target: {fileID: 6875487170615117771, guid: 4e049bff2a127ba48839c89dd7a8b4f3,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: Wen.DataDB, Assembly-CSharp
+      value: Wen.DataDBWithJSON, Assembly-CSharp
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e049bff2a127ba48839c89dd7a8b4f3, type: 3}
